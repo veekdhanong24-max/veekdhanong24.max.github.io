@@ -3,97 +3,98 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>NATHAR PHYU | Resume</title>
+  <title>Nathar Phyu | Resume</title>
   <style>
     body {
-      font-family: "Poppins", sans-serif;
+      font-family: "Poppins", Arial, sans-serif;
       margin: 0;
-      background: #f4f4f4;
+      padding: 0;
+      background-color: #f4f6f8;
       color: #333;
     }
     .container {
       max-width: 900px;
       margin: 40px auto;
-      background: #fff;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       border-radius: 10px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
       overflow: hidden;
     }
     header {
-      background: #2f3e46;
-      color: #fff;
-      padding: 40px;
+      background-color: #2b3a42;
+      color: white;
       display: flex;
       align-items: center;
+      padding: 40px;
       gap: 20px;
     }
     header img {
       width: 120px;
       height: 120px;
       border-radius: 50%;
-      object-fit: cover;
       border: 3px solid #fff;
+      object-fit: cover;
     }
     header h1 {
-      font-size: 28px;
       margin: 0;
+      font-size: 28px;
+      letter-spacing: 1px;
     }
-    .section {
-      padding: 30px 40px;
+    section {
+      padding: 25px 40px;
       border-bottom: 1px solid #ddd;
     }
-    .section:last-child {
+    section:last-child {
       border-bottom: none;
     }
     h2 {
-      color: #2f3e46;
-      border-bottom: 2px solid #2f3e46;
+      color: #2b3a42;
+      border-bottom: 2px solid #2b3a42;
       display: inline-block;
-      margin-bottom: 15px;
+      margin-bottom: 10px;
       font-size: 20px;
     }
+    p, li {
+      line-height: 1.6;
+    }
     ul {
-      padding-left: 20px;
+      margin: 10px 0 0 20px;
     }
     a {
-      color: #2f3e46;
+      color: #2b3a42;
       text-decoration: none;
     }
     a:hover {
       text-decoration: underline;
     }
-    .contact p, .skills p {
+    .contact p {
       margin: 5px 0;
     }
     .skills ul {
       columns: 2;
-      list-style-type: disc;
-    }
-    .education p, .work p {
-      margin: 5px 0;
     }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
-      <img src="https://via.placeholder.com/120" alt="Profile photo" />
+      <img src="https://via.placeholder.com/120" alt="Nathar Phyu Photo" />
       <div>
         <h1>NATHAR PHYU</h1>
-        <p><strong>Motivated student and social media content creator passionate about gender justice, education, and migrant rights.</strong></p>
+        <p>A motivated student and social media content creator passionate about gender justice, education, and migrant rights. Seeking to contribute to APYLD’s Migration team by combining advocacy, storytelling, and real-life experience.</p>
       </div>
     </header>
 
-    <div class="section contact">
+    <section class="contact">
       <h2>CONTACT</h2>
       <p>📞 0617393387</p>
-      <p>📧 veckhomang24@gmail.com</p>
+      <p>📧 <a href="mailto:veckhomang24@gmail.com">veckhomang24@gmail.com</a></p>
       <p>📍 60/3 Moo 1, Sanlannang, Sankampaeng, Chiang Mai, Thailand</p>
       <p>🌐 <a href="https://www.facebook.com/Nathar78" target="_blank">facebook.com/Nathar78</a></p>
       <p>💼 <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn Profile</a></p>
-    </div>
+    </section>
 
-    <div class="section skills">
+    <section class="skills">
       <h2>SKILLS</h2>
       <ul>
         <li>Digital: Social media management, Canva, basic video editing</li>
@@ -102,53 +103,59 @@
         <li>Research and Reporting</li>
         <li>Languages: Mon (Fluent), Burmese (B2), English (B2)</li>
       </ul>
-    </div>
+    </section>
 
-    <div class="section work">
-      <h2>WORK EXPERIENCE & VOLUNTEERING</h2>
-      <p><strong>Veek’s EduVides – Founder</strong> (2022–PRESENT)</p>
+    <section class="work">
+      <h2>WORK EXPERIENCE AND VOLUNTEERING</h2>
+
+      <p><strong>Veek’s EduVides – Founder</strong> <em>(2022 – Present)</em></p>
       <ul>
         <li>Content writing and sharing about scholarships</li>
         <li>English language and general knowledge content</li>
         <li>Lifestyle and personal experiences</li>
       </ul>
 
-      <p><strong>Adhika English Course: Community Classes – Teacher</strong> (Feb 2025–PRESENT)</p>
+      <p><strong>Adhika English Course: Community Classes – Teacher</strong> <em>(Feb 2025 – Present)</em></p>
       <ul>
-        <li>Taught beginner classes to Mon State students aged 10–20</li>
-        <li>Developed lessons on speaking, listening, and conversation skills</li>
-        <li>Supported Mon community students to build confidence in English</li>
-        <li>Conducted online sessions using Zoom and Google Slides</li>
+        <li>Taught beginner classes to students aged 10–20 from Mon State</li>
+        <li>Developed lesson plans focusing on speaking, listening, and conversation skills</li>
+        <li>Supported students from Mon communities to build confidence in English</li>
+        <li>Conducted online classes using Zoom and interactive tools like Google Slides</li>
       </ul>
 
-      <p><strong>Student Association, International College, Payap University – Member</strong> (2024–2025)</p>
+      <p><strong>Student Association, International College, Payap University – Member</strong> <em>(2024 – 2025)</em></p>
       <ul>
-        <li>Assisted in planning activities that promote diversity and cultural exchange</li>
-        <li>Helped manage event logistics and student engagement</li>
+        <li>Assisted in planning student activities that promote diversity and cultural exchange</li>
+        <li>Helped manage student engagement and event organization</li>
       </ul>
-    </div>
+    </section>
 
-    <div class="section education">
+    <section class="education">
       <h2>EDUCATION</h2>
-      <p><strong>Associated Degree of Social Science</strong> (2022–2024)<br>
-      Mon National College<br>GPA: 3.25 / 4.0</p>
 
-      <p><strong>Bachelor of Arts in English Communication</strong> (2024–Expected Graduation 2027)<br>
-      Payap University<br>GPA: 3.5 / 4.0</p>
-    </div>
+      <p><strong>Associated Degree of Social Science</strong> <em>(2022 – 2024)</em><br>
+      Mon National College<br>
+      GPA: 3.25 / 4.0</p>
 
-    <div class="section achievements">
+      <p><strong>Bachelor of Arts in English Communication</strong> <em>(2024 – Expected Graduation: 2027)</em><br>
+      Payap University<br>
+      GPA: 3.5 / 4.0</p>
+    </section>
+
+    <section class="achievements">
       <h2>ACHIEVEMENTS</h2>
-      <p>• Former USAID (DISP) Full Scholarship Recipient</p>
-    </div>
+      <ul>
+        <li>Former USAID (DISP) Full Scholarship Recipient</li>
+      </ul>
+    </section>
 
-    <div class="section reference">
+    <section class="reference">
       <h2>REFERENCE</h2>
       <p><strong>Michael Mellearn</strong><br>
       Director, IRD, Payap University<br>
       📞 0846110054<br>
-      📧 meallen_mel@payap.ac.th</p>
-    </div>
+      📧 <a href="mailto:meallen_mel@payap.ac.th">meallen_mel@payap.ac.th</a></p>
+    </section>
   </div>
 </body>
 </html>

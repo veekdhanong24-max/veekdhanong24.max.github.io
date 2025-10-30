@@ -1,4 +1,4 @@
-<img src="Veek.png" alt="veek Photo" align="right" width="10%"/>
+<img src="Veek.png" alt="veek Photo" align="right" width="15%"/>
 
 # NATHAR PHYU
 # Location

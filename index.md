@@ -49,6 +49,6 @@ Student Association, International College, Payap University
 *  English (B2)
   
 # Contact Info
-* [Web Page](https://veekdhanong24-max.github.io/veekdhanong24.max.github.io/)
+* [Web Page](https://github.com/veekdhanong24-max/veekdhanong24.max.github.io/tree/main)
 * [LinkedIn](www.linkedin.com/in/dha-nong-veek-a27373388)
 * [Facebook Page](https://www.facebook.com/Nathar78)

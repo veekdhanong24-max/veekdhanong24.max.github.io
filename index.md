@@ -3,7 +3,7 @@
 # NATHAR PHYU
 # Location
 *  60/3 Moo 1, Sangkalang, Sankamphaeng, Chiang Mai, Thailand
-  
+
 # Education
 Associate's Degree in Social Science (2022-2024)
 * Mon National College 

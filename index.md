@@ -1,4 +1,4 @@
-<img src="Gemini_Generated_Image_ndlnzjndlnzjndln.png" alt="veek Photo" align="right" width="30%"/>
+<img src="Gemini_Generated_Image_ndlnzjndlnzjndln.png" alt="veek Photo" align="right" width="30%" size=50%/>
 
 # NATHAR PHYU
 # Location

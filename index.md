@@ -11,7 +11,7 @@ Associate's Degree in Social Science (2022-2024)
   
 Bachelor of Arts in English Communication (2024- Expected Graduation:2027)
 * Payap University
-* GPA: #.95/4.0
+* GPA: 3.95/4.0
   
 # Work Experience and Volunteering
 Veek’s EduVides ( 2022 - PRESENT)
